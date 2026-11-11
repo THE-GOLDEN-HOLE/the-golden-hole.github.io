@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/2q2w3n321-59o.css","style"]
+:HL["/_next/static/chunks/1ivcgepgxzm0y.css","style"]
 :HL["/_next/static/media/1c4dc24261e909a2-s.p.188wu523qrfxb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/651df538cfcab999-s.p.3dhbch4o6h0a_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/6aa2ef4975504e04-s.p.3ud7qwv93jsc9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -6,4 +6,4 @@
 :HL["/img/poster-hero.jpg","image",{"fetchPriority":"high"}]
 2:[["children",{"s":"__PAGE__","h":128}]]
 1:[["children",{"s":"en","c":"$Q2"}]]
-0:{"b":"HuDz-BU4MQaanUfJuuFVC","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"MrwhVDYCij8TXingA6M2c","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
