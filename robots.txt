@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://the-golden-hole.github.io/sitemap.xml
+Sitemap: https://goldenhole.men/sitemap.xml
