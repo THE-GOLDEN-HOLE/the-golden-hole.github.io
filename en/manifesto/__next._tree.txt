@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/259dvv6wl9rtj.css","style"]
+:HL["/_next/static/chunks/1k239ebrwcvf0.css","style"]
 :HL["/_next/static/media/1c4dc24261e909a2-s.p.188wu523qrfxb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/651df538cfcab999-s.p.3dhbch4o6h0a_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/6aa2ef4975504e04-s.p.3ud7qwv93jsc9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -6,4 +6,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"manifesto","h":64,"c":"$Q3"}]]
 1:[["children",{"s":"en","c":"$Q2"}]]
-0:{"b":"ApRU94kDlaLrLWY0Goc2X","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"QG3AWaabh0lp1t7lTO9wf","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
