@@ -1,6 +1,6 @@
 :HL["/_next/static/chunks/2cjt9cv1uwjuo.css","style"]
-:HL["/_next/static/chunks/34pg4b_z0h63t.css","style"]
+:HL["/_next/static/chunks/4360nzmkad5s5.css","style"]
 :HL["/_next/static/chunks/2rag2oa-4mg-z.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"cbcZbHdMallR4qBdWkb3p","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"qUjTCimYXf-hdMAfdQZEL","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
